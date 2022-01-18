@@ -24,7 +24,7 @@ The first approach was to try and see if we could animate all 90, 000 pixels usi
 
 ## Approach #2
 
-The second approach to make a pixelated version of the image and animated the blocks instead (reducing the amount which needs to be animated).  This is done via basic view/core animation workflows (not overly optimised)
+The second approach was to make a pixelated version of the image and animated the blocks instead (reducing the amount which needs to be animated).  This is done via basic view/core animation workflows (not overly optimised)
 
 ## Approach #3
 
