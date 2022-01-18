@@ -6,6 +6,8 @@ Inspired by [Click to form an image](https://codepen.io/allanpope/pen/LVWYYd) an
 
 **This is an experiment**
 
+<img src="Bouncy.gif"><img src="Bouncy01.gif">
+
 # Requirements
 
 ![Swift](https://img.shields.io/badge/Swift-5.5-orange) ![MacOS](https://img.shields.io/badge/MacOS-11.3-orange)
