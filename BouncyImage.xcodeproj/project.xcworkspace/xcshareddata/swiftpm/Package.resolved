@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cadmus",
+        "repositoryURL": "https://github.com/RustyKnight/Cadmus",
+        "state": {
+          "branch": "master",
+          "revision": "f2d1d470016ad4e440517e6208c62fc9e3bc066d",
+          "version": null
+        }
+      },
+      {
+        "package": "CoreExtensions",
+        "repositoryURL": "https://github.com/RustyKnight/CoreExtensions",
+        "state": {
+          "branch": null,
+          "revision": "bb7f941c4eb2ec550b010fd601dc712881310826",
+          "version": "1.0.10"
+        }
+      },
+      {
+        "package": "CoreUIExtensions",
+        "repositoryURL": "https://github.com/RustyKnight/CoreUIExtensions",
+        "state": {
+          "branch": "master",
+          "revision": "f2f8af63ddf6abf6f64b0e987d62659eb4ff8e6c",
+          "version": null
+        }
+      },
+      {
+        "package": "SuperSimpleAnimatorKit",
+        "repositoryURL": "https://github.com/RustyKnight/SuperSimpleAnimatorKit",
+        "state": {
+          "branch": "master",
+          "revision": "9b99340bec628b72523764a388229db30753d64f",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftHash",
+        "repositoryURL": "https://github.com/onmyway133/SwiftHash",
+        "state": {
+          "branch": null,
+          "revision": "a900fc3f33c67eb33c9e650651edf6e23a410b3c",
+          "version": "2.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
