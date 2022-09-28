@@ -14,7 +14,7 @@ Inspired by [Click to form an image](https://codepen.io/allanpope/pen/LVWYYd) an
 
 # Why?
 
-Why mot?  This is an experiment in animation and it's annoyingly fun.
+Why not?  This is an experiment in animation and it's annoyingly fun.
 
 One thing to remember, this example is animating the pixles of a 300x300 image (90000 individual objects)
 
