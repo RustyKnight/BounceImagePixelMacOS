@@ -1,4 +1,4 @@
-# BountImagePixelMacOS
+# BounceImagePixelMacOS
 
 A simple animation test
 
