@@ -2,7 +2,9 @@
 
 A simple animation test
 
-Inspired by [Click to form an image](https://codepen.io/allanpope/pen/LVWYYd) and [move dot between 2 points jframe](https://stackoverflow.com/questions/70718553/move-dot-between-2-points-jframe/70718933#70718933), written using Swift on MacOS
+Inspired by [Click to form an image](https://codepen.io/allanpope/pen/LVWYYd) and [move dot between 2 points jframe](https://stackoverflow.com/questions/70718553/move-dot-between-2-points-jframe/70718933#70718933), written using Swift on MacOS.
+
+This is based on the [Java/Swing](https://github.com/RustyKnight/BounceImagePixel) version
 
 **This is an experiment**
 
