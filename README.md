@@ -1,3 +1,5 @@
+![Swift](https://img.shields.io/badge/Swift-5-orange) ![macOS](https://img.shields.io/badge/macOS-11.3-orange) 
+
 # BounceImagePixelMacOS
 
 A simple animation test
